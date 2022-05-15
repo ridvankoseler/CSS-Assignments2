@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    height: 90vh;
+    width: 60vw;
+    margin: auto;
+    margin-top: 1rem
+}
+
+h1{
+    font-size: 2rem;
+    text-align: center;
+}
+
+header{
+    background-color: red;
+    height: 15vh;
+    color: white;
+    line-height: 15vh;
+}
+
+nav{
+    background-color: blue;
+    height: 8vh;
+    line-height: 8vh;
+    margin-top: 0.2rem;
+}
+
+aside{
+    background-color: yellow;
+    float: left;
+    height: 50vh;
+    width: 15vw;
+    padding-top: 10rem;
+}
+
+main{
+    background-color: lightgray;
+    height: 50vh;
+    
+}
+
+footer{
+    background-color: #333;
+    height: 15vh;
+    line-height: 15vh;
+}
